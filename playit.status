@@ -1,703 +1,568 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719911521311 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719963456383 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911524436 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963459512 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911527554 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963462606 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911530659 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963465753 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911533778 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963468916 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911536950 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963472047 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911540053 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963475187 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911543171 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963478310 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911546288 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963481424 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911549413 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963484533 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911552526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963487645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911555645 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963490751 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911558810 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963493859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(RequestError(Error { kind: SendRequest, source: Some(hyper::Error(Io, Kind(ConnectionReset))) }))
-[2J8[0mplayit (v0.15.13): 1719911568028 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963496955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911571160 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963500056 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911574276 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963503176 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911577377 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963506281 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911580501 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963509393 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911583619 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963512512 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911586721 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963515625 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911589832 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963518751 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911592929 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963521874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911596378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963525000 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911599488 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963528127 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911602603 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963531251 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911605720 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963534374 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911608817 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963537486 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911611931 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963540637 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911615032 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963543783 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911618522 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963547052 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911621651 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963550178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911624752 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963553332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911627886 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963556634 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911631316 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963559730 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911634418 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963562920 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911637531 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963566092 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911640638 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963569218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911643739 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963572329 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911648221 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963575459 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911651331 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963578565 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911654798 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963581675 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911657917 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963584791 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911661044 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963587940 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911664459 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963591052 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911667870 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963594154 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911671004 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963597260 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911674155 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963600401 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911677284 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963603548 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911680407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963606681 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911683520 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963609820 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911686630 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963612951 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911689736 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963616047 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911692847 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963619173 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911696291 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963622290 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911699693 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963625403 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911703178 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963628495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911706711 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963631599 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911709828 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963634723 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911712940 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963637846 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911716061 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963640957 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911719600 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963644110 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911722732 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963647230 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911725872 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963650349 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911729002 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963653469 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911732112 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963656592 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911735581 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963659742 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911740185 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963662897 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911743589 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963666039 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911747066 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963669163 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911750479 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963672295 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911753919 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963675432 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911757359 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963678547 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911761982 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963681685 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911765408 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963684830 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911768541 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963687945 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911771659 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963691067 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911774770 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963694182 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911778236 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963697300 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911781705 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963700410 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911784817 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963703540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911787928 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963706702 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911791367 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963709834 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911794810 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963712971 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911797924 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963716075 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911801040 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963719177 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911804464 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963722339 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911807580 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963725490 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911810689 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963728617 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911813821 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963731740 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911817282 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963734859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911820701 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963737971 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911824141 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963741090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911827615 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963744195 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911830729 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963747308 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911833840 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911837270 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911840713 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911844160 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911847564 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911851095 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911855615 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911859073 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911862530 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911865646 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911868775 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911872194 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911876704 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911879816 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911882947 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911886073 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911889189 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911892299 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911895416 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911898823 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911901935 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911905060 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-woman-nerve.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-unit-losing.gl.at.ply.gg:3791 => 127.0.0.1:3791 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719911908175 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719963750583 tunnel running, 2 tunnels registered
 
 
 TUNNELS
